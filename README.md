@@ -65,4 +65,7 @@ custom-ai-agent/
 ├── index.js        # Main application file  
 ├── package.json    # Project dependencies  
 ├── .env           # Environment variables (not in repo)  
-└── README.md      # Project documentation
+└── README.md      # Project documentation  
+
+
+<img width="1594" height="911" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/7aae9beb-16dc-47f8-a7cb-390c5411ce13" />
