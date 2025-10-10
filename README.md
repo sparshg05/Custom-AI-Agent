@@ -57,26 +57,26 @@ This creates a truly autonomous agent that can handle complex, multi-step tasks 
 • Real-time typing indicators  
 
 ## 🛠️ Tech Stack
-Frontend-  
+Frontend—  
 • React 19.1.1 - UI framework  
 • Axios - HTTP client  
 • CSS3 - Styling with custom properties  
 • React Context - State management  
 
-Backend-  
+Backend—  
 • Node.js / Bun - JavaScript runtime  
 • Express 5.1.0 - Web framework  
 • MongoDB 8.1.0 - Database  
 • Mongoose - ODM for MongoDB  
 
-AI/ML Stack-  
+AI/ML Stack—  
 • LangChain Core 0.3.75 - LLM orchestration  
 • LangGraph 0.4.9 - Agent workflow management  
 • ChatGroq - LLM provider (openai/gpt-oss-120b)  
 • Tavily 0.1.5 - Web search tool  
 • Zod - Schema validation  
 
-External APIs-  
+External APIs—  
 • Tavily Search API - Real-time web search  
 • TMDB API - Movie database (1M+ movies)  
 • GROQ API - Language model inference  
